@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.336145,
+          34.336649,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Creek Fire",
+        "styleUrl": "#icon-1571-A52714-labelson",
+        "styleHash": "ae4c9e8",
+        "description": "#CreekFire [update] off Kagel Canyon Rd., north of Lake View Terrace (Los Angeles County) per Los Angeles County Fire is now 15,323 acres and 20% contained.  http://www.fire.ca.gov/current_incidents/incidentdetails/Index/1923",
+        "Area (acres)": "15,619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.581881,
+          34.452832,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rye Fire",
+        "styleUrl": "#icon-1571-A52714-labelson",
+        "styleHash": "ae4c9e8",
+        "description": "#RyeFire [update] off Rye Canyon Loop, west of Valencia (Los Angeles County) is now 7,000 acres and 25% contained.  http://www.fire.ca.gov/current_incidents/incidentdetails/Index/1924",
+        "Area (acres)": "6,049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.091244,
+          34.41522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Thomas Fire",
+        "styleUrl": "#icon-1571-A52714-labelson",
+        "styleHash": "ae4c9e8",
+        "description": "#ThomasFire [update] Hwy 150 and Hwy 126, north of Santa Paula (Ventura County) is now 115,000 acres and 5% contained. Unified Command: CAL FIRE, Ventura County Fire, Los Padres National Forest and Ventura City Fire.  http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=1922",
+        "Area (acres)": "173,000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.482169,
+          34.095176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Skirball Fire",
+        "styleUrl": "#icon-1571-A52714-labelson",
+        "styleHash": "ae4c9e8",
+        "description": "CAL FIRE is assisting Los Angeles City Fire with a fire off N. Sepulveda Blvd, at I-405 (Los Angeles County).  #SkirballFire  http://www.lafd.org/news/skirball-fire-update",
+        "Area (acres)": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14979,
+          33.59257,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liberty Fire",
+        "styleUrl": "#icon-1571-A52714-labelson",
+        "styleHash": "ae4c9e8",
+        "description": "#LibertyFire [update] Los Alamos Rd & Liberty Rd, in an unincorporated area of Murrieta (Riverside County) is now 300 acres and 5% contained.  http://www.rvcfire.org/_Layouts/Incident%20Information/IncidentInfoDetail.aspx?3777",
+        "Area (acres)": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.166443,
+          33.320488,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lilac Fire",
+        "styleUrl": "#icon-1571-A52714-labelson",
+        "styleHash": "ae4c9e8",
+        "description": "#LilacFire [update] off Old Hwy 395 at Dulin Road, Bonsall (San Diego County) is now 3,000 acres. Evacuations and road closures in effect. http://www.fire.ca.gov/current_incidents/incidentdetails/Index/1928",
+        "Area (acres)": "4,100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.333346,
+          34.165649,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little Mountain Fire",
+        "styleUrl": "#icon-1571-424242-labelson",
+        "styleHash": "47eb0848",
+        "description": "#LittleMountainFire [final] University Pkwy and Hwy 215, west of Arrowhead (San Bernardino County) is now 260 acres and 100% contained.   https://twitter.com/SBCOUNTYFIRE",
+        "Area (acres)": 260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.402559,
+          34.211902,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meyers Fire",
+        "styleUrl": "#icon-1571-424242-labelson",
+        "styleHash": "47eb0848",
+        "description": "#MeyersFire [final] near the Hwy 15 and Hwy 215 junction, near Glen Helen Regional Park (San Bernardino) is now 100% contained at 34 acres.  https://twitter.com/CALFIREBDU  (https://twitter.com/CALFIREBDU )",
+        "Area (acres)": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.464086,
+          33.963611,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Riverdale Fire",
+        "styleUrl": "#icon-1571-424242-labelson",
+        "styleHash": "47eb0848",
+        "description": "#RiverdaleFire [final] off Riverdale Place and Lakeview Ave, Santa Ana Riverbed (Riverside County) is now 100% contained at 40 acres.",
+        "Area (acres)": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.055456,
+          34.225518,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wilson Fire",
+        "styleUrl": "#icon-1571-097138-labelson",
+        "styleHash": "-4e9700f8",
+        "description": "CAL FIRE is assisting the Angeles National Forest with a fire off Mount Wilson Circle Rd, near the Mount Wilson Observatory (Los Angeles County). #WilsonFire ***This is not a CAL FIRE incident. For more information: https://inciweb.nwcg.gov/incident/5649/",
+        "Area (acres)": 30
+      }
+    }
+  ]
+}
